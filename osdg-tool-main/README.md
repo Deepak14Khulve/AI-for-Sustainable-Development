@@ -16,22 +16,5 @@ For each query, we return a detailed breakdown of all SDGs found in the text, en
 
 ## Methodology
 
-OSDG 2.0 works in two stages. The first stage uses machine learning (ML) models, trained on the data collected via the OSDG Community Platform (CP). You can access this data through the [osdg-data](https://github.com/osdg-ai/osdg-data) repository. These models carry out the initial screening of texts and suggest the preliminary SDG labels. In the second stage, OSDG uses its ontology/keyword map to verify the initial labels. To assign a specific SDG label, **both the ML and ontology approaches must be in agreement**.
-
-For a more detailed description of the methodology, please refer to **our paper on ArXiv**:
-
-📘 [OSDG 2.0: a multilingual tool for classifying text data by UN Sustainable Development Goals (SDGs)](https://arxiv.org/abs/2211.11252)
-
-
-
-## ⚠️ Repository files
-
-**OSDG 2.0** is not available on the repository due to the use of ML and ontology approaches and machine translation. To access the latest version of the tool, visit the [OSDG website](https://osdg.ai).
-
-OSDG API is available free of charge for research teams, please [contact us](https://osdg.ai/contact) for more information.
-
-🔴 **Please note:** At the moment, the files in this repository refer to a **legacy version of the tool, OSDG 1.0**.
-You can use them to set up a legacy OSDG application via Docker. However, the results obtained may not correspond to the most recent version of the tool, OSDG 2.0.
-For the highest quality results, please refer to the [online version of the tool](https://www.osdg.ai/), or consult us for API access.
-
+OSDG 2.0 works in two stages. The first stage uses machine learning (ML) models, trained on the data collected via the OSDG Community Platform (CP). You can access this data through the [osdg-data](https://github.com/Deepak14Khulve/AI-for-Sustainable-Development.git) repository. These models carry out the initial screening of texts and suggest the preliminary SDG labels. In the second stage, OSDG uses its ontology/keyword map to verify the initial labels. To assign a specific SDG label, **both the ML and ontology approaches must be in agreement**.
 
