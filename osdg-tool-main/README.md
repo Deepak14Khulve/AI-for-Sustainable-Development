@@ -1,7 +1,6 @@
 Welcome to the AI Sustainable Development Project:
 Automated Text Classification Using the OSDG Framework
-
-(https://miro.medium.com/v2/resize:fit:640/format:webp/0*eXgmA-iKFS_SxGCz)
+![](https://miro.medium.com/v2/resize:fit:640/format:webp/0*eXgmA-iKFS_SxGCz)
 
 **OSDG** is an open-source tool that maps and connects activities to the UN Sustainable Development Goals (SDGs) by identifying SDG-relevant content in any text.
 The OSDG tool is available free of charge at [OSDG.ai](https://www.osdg.ai/).
