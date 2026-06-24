@@ -22,11 +22,7 @@ For a more detailed description of the methodology, please refer to **our paper 
 
 📘 [OSDG 2.0: a multilingual tool for classifying text data by UN Sustainable Development Goals (SDGs)](https://arxiv.org/abs/2211.11252)
 
-## OSDG API
 
-Are you conducting research on the SDGs, and aim to publish it in a scholarly journal, present at a conference, etc.?
-
-Our API is **free** **for research purposes**. For access, please [contact us](https://osdg.ai/contact) with a short outline of your research and anticipated scope of content.
 
 ## ⚠️ Repository files
 
@@ -38,6 +34,4 @@ OSDG API is available free of charge for research teams, please [contact us](htt
 You can use them to set up a legacy OSDG application via Docker. However, the results obtained may not correspond to the most recent version of the tool, OSDG 2.0.
 For the highest quality results, please refer to the [online version of the tool](https://www.osdg.ai/), or consult us for API access.
 
-## About the team
 
-OSDG is a partnership between [PPMI](https://www.ppmi.lt/), [UNDP SDG AI Lab](https://sdgailab.org/), and a growing community of researchers led by [Dr. Nuria Bautista Puig](https://orcid.org/0000-0003-2404-0683).
